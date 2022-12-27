@@ -1,0 +1,3 @@
+[submodule "repo-child1"]
+	path = repo-child1
+	url = https://github.com/iharshitgupta/repo-child1.git
